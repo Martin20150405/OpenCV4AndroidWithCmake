@@ -4,12 +4,12 @@ You don't have to add more third-party libs to use OpenCV, this project provides
 
 **This Project only includes armeabi-v7a**
 
-##CHANGELOG
+## CHANGELOG
 
 2017-01-13
 update to OpenCV 3.20
 
-##Works
+## Works
 * Use Cmake to compile OpenCV 3.1 for Android，don't need Android.mk (applicable for OpenCV 2.4X theoretically)
 * Support both Java and NDK OpenCV (With code complecation)
 * remove OpenCV Manager
