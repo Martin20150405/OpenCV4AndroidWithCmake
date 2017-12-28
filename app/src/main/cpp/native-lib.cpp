@@ -32,7 +32,7 @@ void Java_com_martin_ads_testopencv_MainActivity_nativeProcessFrame(JNIEnv*, job
     detector->detect(mGr, v);
     for (unsigned int i = 0; i < v.size(); i++) {
         const KeyPoint &kp = v[i];
-        circle(mRgb, Point(kp.pt.x, kp.pt.y), 10, Scalar(255, 255, 255, 255));
+        circle(mRgb, Point(kp.pt.x, kp.pt.y), 10, Scalar(0, 255, 255, 255));
     }
 
 

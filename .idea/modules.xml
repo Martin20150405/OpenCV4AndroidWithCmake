@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OpenCV4AndroidWithCmake.iml" filepath="$PROJECT_DIR$/OpenCV4AndroidWithCmake.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OpenCVLibrary320/OpenCVLibrary320.iml" filepath="$PROJECT_DIR$/OpenCVLibrary320/OpenCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenCV4AndroidWithCmake.iml" filepath="$PROJECT_DIR$/.idea/OpenCV4AndroidWithCmake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenCVLibrary340/OpenCVLibrary340.iml" filepath="$PROJECT_DIR$/OpenCVLibrary340/OpenCVLibrary340.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
